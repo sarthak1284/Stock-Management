@@ -1,0 +1,5 @@
+1,Razer Blade 16, Razer, 4299,25, i9 13th Gen, RTX 4090
+2,ASUS ROG Strix, ASUS, 4999,15, i9 13th Gen, RTX 4090
+3,Alienware x16, Dell, 3499,25, i9 13th Gen, RTX 4090
+4,PREDATOR TRITON, Acer, 3499,15, i9 11th Gen, RTX 3080Ti
+5,Macbook Pro 16, Apple, 3500,12, i5 9th Gen, GTX 3070
